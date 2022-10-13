@@ -5,5 +5,8 @@ public class Ufuk {
 
         System.out.println("Merhaba Grup");
 
+        System.out.println("hadi bakalım");
+
+
     }
 }
